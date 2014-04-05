@@ -1,5 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=2957
-
 The plugin mainly provides the functionality that loading templates such as class,html,makefile and so on.The plugin also can load templates with script to take the replace of the filename or classname.(As default,the plugin has already included templates as main,singleton class,html,xml,makefile.)
 For any question,welcome to my blog http://www.vimer.cn,
 and welcome to email me:zny2008@gmail.com / dantezhu@vip.qq.com
